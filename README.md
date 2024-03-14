@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MultiMaxxx
 - 👀 I’m interested in **American Football**
-- 🌱 I’m currently learning **How to play CS:GO**
+- 🌱 I’m currently learning **at school**
 - 💞️ I’m looking to collaborate on **Java Script Education Club**
 - 📫 How to reach me **just call me**
 - 😄 Pronouns: **he/him/it/we/they/are**
