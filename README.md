@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning **at school**
 - 💞️ I’m looking to collaborate on **Java Script Education Club**
 - 📫 How to reach me **just call me**
-- 😄 Pronouns: **
-SHE/HER/HER/HERS/HERSELF/HE/HIM/HIS/HIS/HIMSELF/zie/zim/zir/zis/zieself/sie/sie/hir/hirs/hirself/ey/em/eir/eirs/eirself/ve/ver/vis/vers/verself/tey/ter/tem/ters/terself/e/em/eir/eirs/emself**
+- 😄 Pronouns: **SHE/HER/HER/HERS/HERSELF/HE/HIM/HIS/HIS/HIMSELF/zie/zim/zir/zis/zieself/sie/sie/hir/hirs/hirself/ey/em/eir/eirs/eirself/ve/ver/vis/vers/verself/tey/ter/tem/ters/terself/e/em/eir/eirs/emself**
 - ⚡ Fun fact: **A chicken once lived for 18 months without its head**
 
 <!---
